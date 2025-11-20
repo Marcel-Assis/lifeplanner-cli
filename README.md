@@ -44,16 +44,6 @@ O foco do projeto é entregar uma aplicação funcional, clara, organizada e fá
 
 ---
 
-## ✨ Futuras melhorias
-
-- Adicionar categorias de tarefas  
-- Implementar busca e filtros  
-- Criar sistema de prioridade  
-- Melhorar interface com cores e layout  
-- Criar testes automatizados mais completos
-
----
-
 ## 👤 Autor
 
 Marcel Assis  
